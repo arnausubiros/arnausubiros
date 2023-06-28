@@ -7,7 +7,7 @@ Especially interested in: BigData, IoT and Cybersecurity
 
 ## Contact Info 
 
- - [Linkedin](https://www.linkedin.com/in/arnau-subir%C3%B3s-827534162/) 
+ - [Linkedin](https://www.linkedin.com/in/arnausubiros) 
  - [Twitter](https://twitter.com/Arnau_SP)
  - [Email](mailto:arnausubiros@gmail.com)
  - [WordPress](https://arnausubiros.wordpress.com)
