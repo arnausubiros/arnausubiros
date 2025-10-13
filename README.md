@@ -16,11 +16,11 @@ Actualmente estoy realizando labs y challenges de **TryHackMe** y documentando m
 
 - *Notion (writeups):** [https://tinyurl.com/ChallengeLookup2025](https://tinyurl.com/ChallengeLookup2025)
 
+
  
 ## 👨‍💻 Sobre mí / Contacto
 
 - **Nombre:** Arnau Subirós  
 - **Email:** [arnausubiros@gmail.com](mailto:arnausubiros@gmail.com)  
 - **LinkedIn:** [https://www.linkedin.com/in/arnausubiros](https://www.linkedin.com/in/arnausubiros)  
-- **Newsletter:** [https://tinyurl.com/NewsletterArnau](https://tinyurl.com/NewsletterArnau)  
-- **GitHub:** [https://github.com/arnausubiros](https://github.com/arnausubiros)  
+- **Newsletter:** [https://tinyurl.com/NewsletterArnau](https://tinyurl.com/NewsletterArnau) 
