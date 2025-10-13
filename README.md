@@ -23,5 +23,4 @@ Actualmente estoy realizando labs y challenges de **TryHackMe** y documentando m
 - **Email:** [arnausubiros@gmail.com](mailto:arnausubiros@gmail.com)  
 - **LinkedIn:** [https://www.linkedin.com/in/arnausubiros](https://www.linkedin.com/in/arnausubiros)  
 - **Newsletter:** [https://tinyurl.com/NewsletterArnau](https://tinyurl.com/NewsletterArnau)  
-- **Blog / WordPress:** [https://arnausubiros.wordpress.com](https://arnausubiros.wordpress.com)  // desactualizado...mejor borrar o
 - **GitHub:** [https://github.com/arnausubiros](https://github.com/arnausubiros)  
