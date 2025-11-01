@@ -1,8 +1,7 @@
 ## 👋 ¡Hola!
 
-**SysAdmin y Desarrollador Multiplataforma**, en transición hacia **Analista SOC Nivel 1 🔒**.  
-Transformo mi experiencia en **seguridad física (CRA)** en habilidades de **detección y respuesta
-
+* **SysAdmin y Desarrollador Multiplataforma**, en transición hacia **Analista SOC Nivel 1 🔒**.  
+* Transformo mi experiencia en **seguridad física (CRA)** en habilidades de **detección y respuesta
 ---
 ### 💡 Intereses
 * 🛡️ Ciberseguridad (Blue Team, Detección y Respuesta)
