@@ -4,17 +4,18 @@ Soy **SysAdmin y Desarrollador Multiplataforma**, en transición hacia **Analist
 Transformo mi experiencia en seguridad física (CRA) en habilidades de **detección y respuesta en ciberseguridad**.  
 
 ### 💡 Intereses
-- Ciberseguridad (Blue Team, detección y respuesta)  
-- IoT y Big Data  
-- Automatización y administración de sistemas Linux/Windows  
-- Desarrollo multiplataforma (desktop & mobile)
+🛡️ Ciberseguridad (Blue Team, Detección y Respuesta)
+🌐 IoT y Big Data
+⚙️ Automatización y administración de sistemas Linux/Windows
+💻 Desarrollo multiplataforma (desktop & mobile)
 
 ### 📚 En progreso
 Actualmente estoy realizando labs y challenges de **TryHackMe** y documentando mis prácticas en **Notion** y **GitHub** para compartir aprendizaje y progreso.
 
-## 📚 Índice de writeups (Notion)
+📰 Newsletter pública
 
-- *Notion (writeups):** [https://tinyurl.com/ChallengeLookup2025](https://tinyurl.com/ChallengeLookup2025)
+🔐 Versión saneada y consolidada (Notion)
+🔗 https://tinyurl.com/NewsCyberSaneadaV2
 
 
  
@@ -23,4 +24,4 @@ Actualmente estoy realizando labs y challenges de **TryHackMe** y documentando m
 - **Nombre:** Arnau Subirós  
 - **Email:** [arnausubiros@gmail.com](mailto:arnausubiros@gmail.com)  
 - **LinkedIn:** [https://www.linkedin.com/in/arnausubiros](https://www.linkedin.com/in/arnausubiros)  
-- **Newsletter:** [https://tinyurl.com/NewsletterArnau](https://tinyurl.com/NewsletterArnau) 
+
