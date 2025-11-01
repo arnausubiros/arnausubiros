@@ -1,7 +1,8 @@
 ## 👋 ¡Hola!
 
-Soy **SysAdmin y Desarrollador Multiplataforma**, en transición hacia **Analista SOC Nivel 1 🔒**.  
-Transformo mi experiencia en seguridad física (CRA) en habilidades de **detección y respuesta en ciberseguridad**.  
+**SysAdmin y Desarrollador Multiplataforma**, en transición hacia **Analista SOC Nivel 1 🔒**.  
+Transformo mi experiencia en **seguridad física (CRA)** en habilidades de **detección y respuesta
+
 ---
 ### 💡 Intereses
 * 🛡️ Ciberseguridad (Blue Team, Detección y Respuesta)
@@ -13,8 +14,8 @@ Transformo mi experiencia en seguridad física (CRA) en habilidades de **detecci
 * Actualmente estoy realizando labs y challenges de **TryHackMe** y documentando mis prácticas en **Notion** y **GitHub** para compartir aprendizaje y progreso.
 ---
 ### 📰 Newsletter pública
-🔐 Versión saneada y consolidada (Notion)
-🔗 https://tinyurl.com/NewsCyberSaneadaV2
+🔐 **Versión saneada y consolidada (Notion)**  
+🔗 [https://tinyurl.com/NewsCyberSaneadaV2](https://tinyurl.com/NewsCyberSaneadaV2)
 ---
  
 ###  👨‍💻 Sobre mí / Contacto
